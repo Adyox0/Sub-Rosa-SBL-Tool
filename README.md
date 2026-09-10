@@ -26,12 +26,13 @@ Now if you load up the game you should hopefully be greeted with your custom bui
 ## Credits / Notes
 I finished this project around February of this year and used OpenAI's o3 model to help me understand decompiled functions and write parts of the code.
 
-If you have any problems or questions, you can contact me **@Adyox0** on Discord
+If you have any problems or questions, or you make something cool, you can contact me **@Adyox0** on Discord
 
 https://youtu.be/SDqpnfTRtIU
+
 https://youtu.be/No2i3O1yozo
 
-<img width="1920" height="1080" alt="20742C~1" src="https://github.com/user-attachments/assets/ecbd26a6-b255-4ac8-b8c1-1482a12b89a4" />
+<img width="1920" height="1080" alt="209A14~1" src="https://github.com/user-attachments/assets/97f81fa1-b18b-4f80-802e-012d23386564" />
 <img width="1920" height="1080" alt="209C5F~1" src="https://github.com/user-attachments/assets/e9b83e53-5b53-4bf0-a375-2046423fe163" />
 <img width="1920" height="1080" alt="206BEC~1" src="https://github.com/user-attachments/assets/216af149-92c3-457f-9e82-5c5b38a91c6c" />
 
