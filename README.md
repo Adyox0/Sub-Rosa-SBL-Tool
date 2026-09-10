@@ -16,6 +16,7 @@ Next step is to install the v24 of Sub Rosa, here's a link to an archive I found
 Once you've got the right outdated version installed download Cheat Engine and load city_editor1.CT and once it's attached to Sub Rosa (v24), change the editor enabled value from 0 to 1 from here get familiar with the editor, notable things that might seem strange is you can only delete or place cubes on a big grid that you summon with T, actually I'll just drop the guide as a .txt idk who wrote it I think it was RappapaThePepper or Gamemaster777
 
 Anyway, take your exported .sbl and drop it into your game file /block folder **THIS IS ALSO IMPORTANT** I would heavily recommend naming your .sbl after an existing .sbl and replacing it this is to do with another file format called .sbb and unless you want to get into hex editing you'll find this a lot easier, my recommendation is one of the signs of the bases like bc-sign-goldmen.sbl
+<img width="238" height="87" alt="image" src="https://github.com/user-attachments/assets/2ff474c3-0de1-41ba-b204-9db196f52911" />
 
 ## Updating to latest version
 Once you've saved and reloaded your map from following the other guide (just press f9 and f5) you'll be able to play with your custom buildings, the problem is nobody plays on v24 except Brazilians and that is only sometimes, so you'll want to port your map to the latest version, v38, to do this you can build this csx tool on your machine as the link doesn't seem to work anymore:
