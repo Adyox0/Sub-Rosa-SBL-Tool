@@ -26,7 +26,7 @@ Basically your aim is to turn all your files into a .csx you do this by dragging
 Now if you load up the game you should hopefully be greeted with your custom buildings in game, whilst you can truly make anything you want you'll soon find there are limits to what the game is able to handle, I encourage you to find these for yourself and know there are workarounds, for instance to get over the vertex limit you can stitch several .sbl files together, I have that tool as well but I won't be releasing it as I wasn't involved with its creation also it's kind of doodoo water
 
 ## Credits / Notes
-I finished this project around February of this year and used OpenAI's o3 model to help me understand decompiled functions and write parts of the code.
+I finished this project around February 2026 and used OpenAI's o3 model to help me understand decompiled functions and write parts of the code.
 
 If you have any problems or questions, or if you make something cool, you can contact me **@Adyox0** on Discord
 
