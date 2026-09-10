@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------Sub Rosa 35 Editor Controls-------------------------------------------------------------------------------------------------------------- 
+
+Load up the Cheat Engine table and hook it onto the Sub Rosa process. (On the bottom of the tutorial.)
+Set the "City Editor" value to 1. If you want to test your map, set it to 0.
+Pick whichever "City Editor Mode" you need by changing the value.
+0 - Block Placement
+1 - Area Selector
+2 - Street Mode
+3 - Mission Mode
+Before you make any changes, change the "Save Function" value to 0.
+Create your map, edit whatever you need.
+Upon placing blocks, roads and anything like that, press F9 to save the changes and then F5 to view them. (Make sure "Save Function" is set to 0!)
+The map will be exported to Sub Rosa/data/round/city2.sbc
+(Make a backup!)
+Controls :
+
+Block Placement mode :
+Click - Place block
+Ctrl+Click - Remove block
+T - Place down placement grid
+R - Precision grid movement 1
+F - Precision grid movement 2
+(Based on the direction where you placed the grid.)
+E - Rotation
+Scrolling - Change blocks
+
+Area mode :
+Click & drag - Create area
+Scroll - Change area type
+
+Street mode :
+Click on empty space - Create road node.
+Click on road node - Select road node.
+Click + E - Drag road node
+Del - Delete selected road node
+
+Mission mode :
+Click - Place down guards

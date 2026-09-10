@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="28">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Editor"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Editor Enabled?"</Description>
+          <LastState Value="1" RealAddress="24700EC0"/>
+          <VariableType>Binary</VariableType>
+          <BitStart>0</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>0</ShowAsBinary>
+          <Address>subrosa.exe+245A0EC0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"Editor Mode (0-3)"</Description>
+          <LastState Value="0" RealAddress="24700EC4"/>
+          <VariableType>Byte</VariableType>
+          <Address>subrosa.exe+245A0EC4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Map"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Map Name (folder in /data)"</Description>
+          <LastState RealAddress="093D05EC"/>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>subrosa.exe+92705EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"Map Cached? (0 to reload from disk)"</Description>
+          <LastState Value="1" RealAddress="142208E0"/>
+          <VariableType>Binary</VariableType>
+          <BitStart>0</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>0</ShowAsBinary>
+          <Address>subrosa.exe+140C08E0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
