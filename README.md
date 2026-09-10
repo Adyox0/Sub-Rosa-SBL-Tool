@@ -1,6 +1,8 @@
 # Sub Rosa SBL Tool
+<img width="430" height="400" alt="image" src="https://github.com/user-attachments/assets/1b8b01ba-1382-466f-b1d3-39c611a56880" />
 
-This is a Blender plugin that allows you to port objects from Blender into Sub Rosa by turning them into the .sbl file format, below I'll outline the basic steps to go from how to play your map on the latest release (v38):
+
+This is a Blender plugin that allows you to port objects from Blender into Sub Rosa by turning them into the .sbl file format, below I'll outline the basic steps to go from how to play your map on version v24 to the latest release (v38):
 
 ## Export your object from Blender 
 First install the Blender plugin then create your object, I won't go into texture baking but if you want to have several textures on one object you'll require it, I'll link resources I found helpful at the bottom of this guide. After you've finished, highlight the object(s) you want to turn into an sbl file and hit **File > Export > .sbl**
@@ -26,7 +28,7 @@ Now if you load up the game you should hopefully be greeted with your custom bui
 ## Credits / Notes
 I finished this project around February of this year and used OpenAI's o3 model to help me understand decompiled functions and write parts of the code.
 
-If you have any problems or questions, or you make something cool, you can contact me **@Adyox0** on Discord
+If you have any problems or questions, or if you make something cool, you can contact me **@Adyox0** on Discord
 
 https://youtu.be/SDqpnfTRtIU
 
